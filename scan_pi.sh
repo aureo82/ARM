@@ -1,0 +1,1 @@
+sudo arp-scan --interface=eth0 --localnet | grep b8:27:eb12:52 2018/03/01

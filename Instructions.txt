@@ -1,0 +1,5 @@
+Scripts to find IP addresses of Atmel based devices and raspberry pies
+
+1) Copy/download file to /usr/local/sbin/ 
+2) execute: chmod +x file
+3) call the script from any path in your shell

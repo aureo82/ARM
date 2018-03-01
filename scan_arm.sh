@@ -1,0 +1,1 @@
+sudo arp-scan --interface=eth0 --localnet | grep Atmel
